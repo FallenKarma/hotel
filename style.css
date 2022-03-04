@@ -1,0 +1,25 @@
+header{
+    margin: auto;
+    width: 80%;
+    margin-top: 50px;
+    height: 20%;
+}
+nav{
+    border: 2px solid black;
+    display: inline-block;
+    font-size: 25px ;
+    padding: 10px 20px;
+}
+nav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+#nome_hotel{
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px ;
+}
+#login_png{
+    display: inline-block;
+}
+
