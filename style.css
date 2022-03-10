@@ -2,6 +2,7 @@ header{
     margin: auto;
     width: 80%;
     margin-top: 50px;
+    margin-left: 100px;
     height: 20%;
 }
 nav{
@@ -9,6 +10,7 @@ nav{
     display: inline-block;
     font-size: 25px ;
     padding: 10px 20px;
+    margin-left: 100px;
 }
 nav a:hover{
     background-color: #ddd;
@@ -17,8 +19,9 @@ nav a:hover{
 #nome_hotel{
     display: inline-block;
     font-family: 'Oswald', sans-serif;
-    font-size: 40px ;
+    font-size: 80px ;
 }
 #login_png{
     display: inline-block;
+    margin-left: 150px;
 }
